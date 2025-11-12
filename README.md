@@ -1,5 +1,4 @@
 
-````markdown
 # OpenAI-Image1 Model Powered Illustration Regeneration
 
 This project leverages OpenAI's **`gpt-image-1`** model to generate and regenerate cartoon illustrations of custom characters with precise artistic guidelines. Users can create new scenes while preserving each character’s unique features, proportions, and color schemes, while allowing expressions and poses to adapt to a specified scenario.  
