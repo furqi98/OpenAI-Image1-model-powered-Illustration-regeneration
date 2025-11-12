@@ -40,8 +40,6 @@ Create a `.env` file in the root directory with your OpenAI API key:
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-> If no environment variable is found, the script has a fallback hardcoded API key (not recommended for production).
-
 ---
 
 ## Usage
