@@ -87,7 +87,7 @@ Each character has a **distinctive design** that is preserved during image gener
 
 ---
 
-## Folder Structure
+## Folder Structure for local Usage
 
 ```
 .
